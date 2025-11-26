@@ -138,6 +138,7 @@ This project provides a comprehensive, data-driven analysis of SAP SE's cloud bu
    - Formula: `Forecast ± (1.96 × SE)`
    - Citation: Anderson et al. (2020), *Statistics for Business and Economics*
 
+👉 **[Full Methodology Documentation](METHODOLOGY.md)**
 ---
 
 ## ⚠️ Limitations
